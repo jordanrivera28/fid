@@ -1,0 +1,49 @@
+body {
+    background-color: #e6ffec ;
+    margin: 0 10%;
+    font-family:'Times New Roman', Times, serif;
+}
+h1 { 
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-transform:uppercase;
+    margin-top: 30px;
+    border-bottom: 1px solid #000000;
+}
+h2 {
+    text-align:center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    
+}
+h3 {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large; 
+    color:black;
+    text-decoration-line: underline;
+    font-weight: 500;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+a {
+    text-decoration: none;
+  }
+  a :link {
+    color: #1391a5;
+  }
+  a :visited {
+    color: #1a769e;
+  }
+  a:focus, a:hover {
+      color: #080f8a;
+      background-color: #fff;
+  }
+  a:active {
+      color: rgb(0, 170, 255);
+      background-color: #fff;
+  }
