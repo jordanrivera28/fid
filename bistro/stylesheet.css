@@ -1,0 +1,68 @@
+body {
+    background-color: #faf2e4;
+    margin: 0 10%;
+    font-family: sans-serif;
+    }
+h1 {
+     text-align: center;
+     font-family: serif;
+    font-weight: normal;
+     text-transform: uppercase;
+     border-bottom: 1px solid #57b1dc;
+    margin-top: 30px;
+}
+h2 {
+     color: #d1633c;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+}
+dt {
+    font-weight: bold;
+  }
+  strong {
+    font-style: italic;
+  }
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+  #info p {
+    font-style: italic;
+  }
+  .price {
+    font-family: Georgia, serif;
+    font-style: italic;
+  }
+  p.warning, sup {
+    font-size: small;
+  }
+  .label {
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: normal;
+  }
+  
+  h2 + p {
+    text-align: center;
+    font-style: italic;
+  }
+  a {
+    text-decoration: none;
+  }
+  a :link {
+    color: #Ffa500;
+  }
+  a :visited {
+    color: #ffce92;
+  }
+  a:focus, a:hover {
+      color: #f26d00;
+      background-color: #fff;
+  }
+  a:active {
+      color: rgb(255, 174, 0);
+      background-color: #fff;
+  }
+  
